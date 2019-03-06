@@ -3,7 +3,7 @@ When you run npm start, the web page that comes up may appear familiar. A dashbo
 If done correctly, the web page should look the same, but no props are passed from any component to any other component.
 
 ### Setup
-fork, clone, npm install, npm start
+fork, clone, npm install, npm start, open browser to http://localhost:3000/
 
 ### Reducers
 * Create a new folder called reducers
